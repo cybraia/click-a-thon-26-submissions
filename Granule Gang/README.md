@@ -3,7 +3,7 @@
 ## Atlys Track
 
 ## Insight Out
-Meet the little voices inside your data.
+Meet the little voices inside your data. 
 
 ## Team Members
 - Krishna @cybraia
@@ -25,7 +25,7 @@ Every run is traced end to end in Langfuse, and displayed to the user via STream
 
 ## Demo Video
 
-_TODO: add the 2–3 minute recorded demo video link here (mandatory for submission)._
+https://youtu.be/gjOqzRX6zu4
 
 ## Architecture
 
