@@ -21,7 +21,7 @@ Every run is traced end to end in Langfuse, and displayed to the user via STream
 
 ## Hosted Demo
 
-_TODO: add the live, hosted demo link here (mandatory for submission)._
+[Demo hosted link](https://clickhousehackathon-4jwvrjw9d75syixdytc5wf.streamlit.app/)
 
 ## Demo Video
 
